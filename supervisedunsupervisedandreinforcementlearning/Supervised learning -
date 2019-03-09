@@ -1,0 +1,17 @@
+Supervised learning - 
+	certain data set and we need to predict as close as close value.
+
+	- k nearest neighbour
+	- logistic regression
+
+
+Unsupervised learning-
+	we don't need to predict any target, value or estimation instead we try to predict clustering of that
+
+	- k means algorithm
+
+
+Reinforcement learning -
+	we try to train our model on environment which learn from trail and error and again reinforce to learn better
+
+	- marcov reinforcement
